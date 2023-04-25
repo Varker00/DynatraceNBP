@@ -12,7 +12,7 @@ Detailed description available at https://github.com/joaquinfilipic-dynatrace/gd
 1. Clone the repository to your local machine
 2. Navigate to the project directory in your terminal
 3. Run the following commands:
-
+<!-- list end -->
 
     docker build --tag dynatracenbs .
 The first command will build the docker image of the project
