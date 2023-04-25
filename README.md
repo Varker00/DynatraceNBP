@@ -15,11 +15,11 @@ Detailed description available at https://github.com/joaquinfilipic-dynatrace/gd
 
 
     docker build --tag dynatracenbs .
+The first command will build the docker image of the project
 
     docker run -p 8080:8080 dynatracenbs
 
-The first command will build the docker image of the project, 
-while the second will start the container running the app.
+While the second will start the container running the app.
 
 The application will be available at `http://localhost:8080`
 
