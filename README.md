@@ -15,6 +15,7 @@ Detailed description available at https://github.com/joaquinfilipic-dynatrace/gd
 
 
     docker build --tag dynatracenbs .
+
     docker run -p 8080:8080 dynatracenbs
 
 The first command will build the docker image of the project, 
